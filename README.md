@@ -13,6 +13,8 @@ Wenn es Änderungen gibt, dieses Repo forken, einpflegen, Pull Request stellen, 
 ## Formatierung
 
 Die Klausuren werden im CSV Format eingetragen und alle Zeilen nach dem Namen sortiert.
+Als Trennzeichen werden Kommas verwendet.
+Die Namen der Profs enthalten gerne Kommas (Nachname, Vorname) und daher sollte das Feld in Anführungszeichen gepackt werden.
 
 Die Namen der Einträge sind die Namen, wie sie im Veranstaltungskalender stehen oder im Bot benutzt werden. Stimmt dieser Name nicht überein, kann die Klausur keiner Veranstaltung zugeordnet werden.
 
