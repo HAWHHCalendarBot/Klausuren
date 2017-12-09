@@ -1,1 +1,4 @@
-Die Änderungen am Klausurenplan habe ich hier gefunden: <Link, der offiziell wirkt, hier einfügen>
+- [ ] Die Änderungen am Klausurenplan habe ich hier gefunden: <Link, der offiziell wirkt, hier einfügen>
+- [ ] Die CSV enthält keine Formatierungsfehler (GitHub kann diese als Tabelle statt als Text anzeigen)
+- [ ] Die CSV ist alphabetisch sortiert
+- [ ] Die Veranstaltungsnamen sind wie im Kalender geschrieben (bzw. [hier](https://calendarbot.hawhh.de/all.txt) zu finden)
