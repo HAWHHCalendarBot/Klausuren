@@ -1,3 +1,41 @@
 Name,Date,Starttime,Type,Prof,Room
-MINF-WS-TTV  [TT1],31.01.2018,11:00,Klausur,"Schmidt, Thomas",TBA
-MINF3-SVP,29.01.2018,14:00,Klausur,"Buth, Bettina",TBA
+BAI1-GI,29.01.2018,08:00,Klausur,"Hübner, Martin",TBA
+BAI1-MG,31.01.2018,11:00,Klausur,"Klauck, Christoph",TBA
+BAI1-PM1/PT,23.01.2018,09:00,Klausur am PC,"Kahlbrandt, Bernd",1104
+BAI1-PM1/PT,02.02.2018,11:00,Klausur,"Kahlbrandt, Bernd",TBA
+BAI2-PM2,24.01.2018,09:00,Klausur am PC,"Wendholt, Birgit",1104
+BAI2-AF/AFÜ,30.01.2018,14:00,Klausur,"Neitzke, Michael",TBA
+BAI2-DB,26.01.2018,08:00,Klausur,"Schulz, Martin",TBA
+BAI2-RMP,01.02.2018,11:00,Klausur,"Tiedemann, Tim",TBA
+BAI2-LB/LBP,22.01.2018,08:00,Klausur,"Köhler-Bussmeier, Michael",TBA
+BAI3-BS,23.01.2018,14:00,Klausur,"Hübner, Martin",TBA
+BAI4-IS,22.01.2018,14:00,Klausur,"Neitzke, Michael",TBA
+BAI4-RN,01.02.2018,08:00,Klausur,"Korf, Franz",TBA
+BAI4-SE2,30.01.2018,11:00,Klausur,"Zukunft, Olaf",TBA
+BAI5-VS,25.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",TBA
+BAI6-ITS,01.02.2018,14:00,Klausur,"Kossakowski, Klaus-Peter",TBA
+BTI1-GT,02.02.2018,08:00,Klausur,"Schwarz, Bernd",TBA
+BTI1-GE1,29.01.2018,08:00,Klausur,"Baran, Reinhard",TBA
+BTI1-PM1/PT,22.01.2018,09:00,Laborprüfung,"Schäfers, Michael",1104
+BTI1-PM1/PT,26.01.2018,08:00,Klausur,"Schäfers, Michael",TBA
+BTI1-MG,24.01.2018,11:00,Klausur,"Padberg, Julia",TBA
+BTI2-DB,25.01.2018,08:00,Klausur,"Gerken, Wolfgang",TBA
+BTI2-PM2,31.01.2018,11:00,Klausur,"Jenke, Philipp",TBA
+BTI2-GS,23.01.2018,09:00,Laborprüfung,"Korf, Franz",701 und 709
+BTI2-AF/AFÜ,29.01.2018,11:00,Klausur,"Padberg, Julia",TBA
+BTI2-GE2,02.02.2018,14:00,Klausur,"Schwarz, Bernd",TBA
+BTI3-AA/AAÜ,24.01.2018,14:00,Klausur,"Hollatz, Ralf",TBA
+BTI3-AD,01.02.2018,14:00,Klausur,"Paraigis, Stephan",TBA
+BTI3-DT,23.01.2018,14:00,Klausur,"Schäfers, Michael",TBA
+BTI3-BS,29.01.2018,14:00,Klausur,"Tiedemann, Tim",TBA
+BTI4-CE,22.01.2018,14:00,Klausur,"Schwarz, Bernd",TBA
+BTI4-SR,31.01.2018,14:00,Klausur,"Fohl, Wolfgang",TBA
+BTI4-RN,30.01.2018,14:00,Klausur,"Becke, Martin",TBA
+BTI5-BW/BWÜ,25.01.2018,11:00,Klausur,"Schwarz, Renate",TBA
+BTI5-VS,01.02.2018,08:00,Klausur,"Schmidt, Thomas",TBA
+INF-WP-C2,26.01.2018,14:00,Klausur,"Gerken, Wolfgang",TBA
+INF-WP-A1 Risikomanagment,23.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",TBA
+INF-WP-B2,31.01.2018,08:00,Klausur,"Steffens, Ulrike",TBA
+INF-WP-C3,02.02.2018,11:00,Klausur,"Jenke, Philipp",TBA
+INF-WP-B4,31.01.2018,11:00,Klausur,"Meisel, Andreas",TBA
+INF-WP-A2 Verteilte Sicherhei,30.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",TBA
