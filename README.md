@@ -1,4 +1,4 @@
-# Klausuren - WORK IN PROGRESS
+# Klausuren
 
 In diese Repository werden die Klausuren aller Veranstaltungen gesammelt, die zum [HAW HH Kalender Bot](https://t.me/HAWHHCalendarBot) hinzugefügt werden.
 
