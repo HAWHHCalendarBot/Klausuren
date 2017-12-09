@@ -9,6 +9,7 @@ Wenn es Änderungen gibt, dieses Repo forken, einpflegen, Pull Request stellen, 
 ## Links
 
 - [HAW Klausurenpläne](https://www.haw-hamburg.de/fakultaeten-und-departments/ti/fakultaetsservicebuero/klausurenundwiederholungen.html#c109850)
+- [Alle Namen der Veranstaltungen](https://calendarbot.hawhh.de/all.txt)
 
 ## Formatierung
 
