@@ -1,38 +1,39 @@
 Name,Date,Starttime,Type,Prof,Room
-BAI1-GI,29.01.2018,08:00,Klausur,"Hübner, Martin",TBA
-BAI1-MG,31.01.2018,11:00,Klausur,"Klauck, Christoph",TBA
+BAI1-GI,29.01.2018,08:00,Klausur,"Hübner, Martin",1060
+BAI1-MG,31.01.2018,11:00,Klausur,"Klauck, Christoph",1001
 BAI1-PM1/PT,23.01.2018,09:00,Klausur am PC,"Kahlbrandt, Bernd",1104
-BAI1-PM1/PT,02.02.2018,11:00,Klausur,"Kahlbrandt, Bernd",TBA
-BAI2-AF/AFÜ,30.01.2018,14:00,Klausur,"Neitzke, Michael",TBA
-BAI2-DB,26.01.2018,08:00,Klausur,"Schulz, Martin",TBA
-BAI2-LB/LBP,22.01.2018,08:00,Klausur,"Köhler-Bussmeier, Michael",TBA
+BAI1-PM1/PT,02.02.2018,11:00,Klausur,"Kahlbrandt, Bernd",1060
+BAI1-BW1,25.01.2018,11:00,"Prüfung","Klindworth, Holger",660
+BAI2-AF/AFÜ,30.01.2018,14:00,Klausur,"Neitzke, Michael",360
+BAI2-DB,26.01.2018,08:00,Klausur,"Schulz, Martin",1001
+BAI2-LB/LBP,22.01.2018,08:00,Klausur,"Köhler-Bussmeier, Michael",360
 BAI2-PM2,24.01.2018,09:00,Klausur am PC,"Wendholt, Birgit",1104
-BAI2-RMP,01.02.2018,11:00,Klausur,"Tiedemann, Tim",TBA
-BAI3-BS,23.01.2018,14:00,Klausur,"Hübner, Martin",TBA
-BAI4-IS,22.01.2018,14:00,Klausur,"Neitzke, Michael",TBA
-BAI4-RN,01.02.2018,08:00,Klausur,"Korf, Franz",TBA
-BAI4-SE2,30.01.2018,11:00,Klausur,"Zukunft, Olaf",TBA
-BAI5-VS,25.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",TBA
-BAI6-ITS,01.02.2018,14:00,Klausur,"Kossakowski, Klaus-Peter",TBA
-BTI1-GE1,29.01.2018,08:00,Klausur,"Baran, Reinhard",TBA
-BTI1-GT,02.02.2018,08:00,Klausur,"Schwarz, Bernd",TBA
-BTI1-MG,24.01.2018,11:00,Klausur,"Padberg, Julia",TBA
+BAI2-RMP,01.02.2018,11:00,Klausur,"Tiedemann, Tim",405
+BAI3-BS,23.01.2018,14:00,Klausur,"Hübner, Martin",1060
+BAI4-IS,22.01.2018,14:00,Klausur,"Neitzke, Michael",460
+BAI4-RN,01.02.2018,08:00,Klausur,"Korf, Franz",360
+BAI4-SE2,30.01.2018,11:00,Klausur,"Zukunft, Olaf",360
+BAI5-VS,25.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",660
+BAI6-ITS,01.02.2018,14:00,Klausur,"Kossakowski, Klaus-Peter",1260
+BTI1-GE1,29.01.2018,08:00,Klausur,"Baran, Reinhard","405 (560 Reserve)"
+BTI1-GT,02.02.2018,08:00,Klausur,"Schwarz, Bernd",660
+BTI1-MG,24.01.2018,11:00,Klausur,"Padberg, Julia",405
 BTI1-PM1/PT,22.01.2018,09:00,Laborprüfung,"Schäfers, Michael",1104
-BTI1-PM1/PT,26.01.2018,08:00,Klausur,"Schäfers, Michael",TBA
-BTI2-AF/AFÜ,29.01.2018,11:00,Klausur,"Padberg, Julia",TBA
-BTI2-DB,25.01.2018,14:00,Klausur,"Gerken, Wolfgang",TBA
-BTI2-GE2,02.02.2018,14:00,Klausur,"Schwarz, Bernd",TBA
+BTI1-PM1/PT,26.01.2018,08:00,Klausur,"Schäfers, Michael",405
+BTI2-AF/AFÜ,29.01.2018,11:00,Klausur,"Padberg, Julia",460
+BTI2-DB,25.01.2018,14:00,Klausur,"Gerken, Wolfgang",660
+BTI2-GE2,02.02.2018,14:00,Klausur,"Schwarz, Bernd",1265
 BTI2-GS,23.01.2018,09:00,Laborprüfung,"Korf, Franz",701 und 709
-BTI2-PM2,31.01.2018,11:00,Klausur,"Jenke, Philipp",TBA
-BTI3-AA/AAÜ,24.01.2018,14:00,Klausur,"Hollatz, Ralf",TBA
-BTI3-AD,01.02.2018,14:00,Klausur,"Paraigis, Stephan",TBA
-BTI3-BS,29.01.2018,14:00,Klausur,"Tiedemann, Tim",TBA
-BTI3-DT,23.01.2018,14:00,Klausur,"Schäfers, Michael",TBA
-BTI4-CE,22.01.2018,14:00,Klausur,"Schwarz, Bernd",TBA
-BTI4-RN,30.01.2018,14:00,Klausur,"Becke, Martin",TBA
-BTI4-SR,31.01.2018,14:00,Klausur,"Fohl, Wolfgang",TBA
-BTI5-BW/BWÜ,25.01.2018,11:00,Klausur,"Schwarz, Renate",TBA
-BTI5-VS,01.02.2018,08:00,Klausur,"Schmidt, Thomas",TBA
+BTI2-PM2,31.01.2018,11:00,Klausur,"Jenke, Philipp",460
+BTI3-AA/AAÜ,24.01.2018,14:00,Klausur,"Hollatz, Ralf",1260
+BTI3-AD,01.02.2018,14:00,Klausur,"Paraigis, Stephan",560
+BTI3-BS,29.01.2018,14:00,Klausur,"Tiedemann, Tim",1001
+BTI3-DT,23.01.2018,14:00,Klausur,"Schäfers, Michael",1001
+BTI4-CE,22.01.2018,14:00,Klausur,"Schwarz, Bernd",1260
+BTI4-RN,30.01.2018,14:00,Klausur,"Becke, Martin",1260
+BTI4-SR,31.01.2018,14:00,Klausur,"Fohl, Wolfgang",560
+BTI5-BW/BWÜ,25.01.2018,11:00,Klausur,"Schwarz, Renate",1265
+BTI5-VS,01.02.2018,08:00,Klausur,"Schmidt, Thomas",1265
 E1a-AL,22.01.2018,08:00,Klausur,"Hensel, Marc",TBA
 E1a-AN1,26.01.2018,08:00,Klausur,"Nieder, Johannes",TBA
 E1a-ET1,24.01.2018,08:00,Klausur,"Li, Aining",TBA
@@ -81,11 +82,11 @@ E7-WP2+WPP2,26.01.2018,14:00,Klausur,"Hess, Robert",TBA
 E7-WP4+WPP4,26.01.2018,09:00,Klausur am PC,"Noack, Claudius",TBA
 E7-WP5+WPP5,02.02.2018,14:00,Klausur,"Schoenen, Rainer",TBA
 E7-WP6+WPP6,23.01.2018,14:00,Klausur,"Wenzel, Andre",TBA
-INF-WP-A1 Risikomanagment,23.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",TBA
-INF-WP-A2 Verteilte Sicherhei,30.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",TBA
-INF-WP-B2,31.01.2018,08:00,Klausur,"Steffens, Ulrike",TBA
-INF-WP-B4,31.01.2018,11:00,Klausur,"Meisel, Andreas",TBA
-INF-WP-C2,26.01.2018,14:00,Klausur,"Gerken, Wolfgang",TBA
-INF-WP-C3,02.02.2018,11:00,Klausur,"Jenke, Philipp",TBA
-MINF-WS-TTV  [TT1],31.01.2018,11:00,Klausur,"Schmidt, Thomas",TBA
-MINF3-SVP,29.01.2018,14:00,Klausur,"Buth, Bettina",TBA
+INF-WP-A1 Risikomanagment,23.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",1465
+INF-WP-A2 Verteilte Sicherhei,30.01.2018,08:00,Klausur,"Kossakowski, Klaus-Peter",1065
+INF-WP-B2,31.01.2018,08:00,Klausur,"Steffens, Ulrike",1281
+INF-WP-B4,31.01.2018,11:00,Klausur,"Meisel, Andreas",660
+INF-WP-C2,26.01.2018,14:00,Klausur,"Gerken, Wolfgang",560
+INF-WP-C3,02.02.2018,11:00,Klausur,"Jenke, Philipp",1465
+MINF-WS-TTV  [TT1],31.01.2018,11:00,Klausur,"Schmidt, Thomas","Steindamm 94, Raum 02"
+MINF3-SVP,29.01.2018,14:00,Klausur,"Buth, Bettina",1260
